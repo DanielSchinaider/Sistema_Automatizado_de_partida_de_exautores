@@ -1,0 +1,2 @@
+# Sistema_Automatizado_de_partida_de_exautores
+Atividade acadêmica para ligar exaustores automaticamente
